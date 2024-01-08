@@ -1,0 +1,14 @@
+/Users/alex/Documents/source/py/bin/Debug/net8.0/py
+/Users/alex/Documents/source/py/bin/Debug/net8.0/py.deps.json
+/Users/alex/Documents/source/py/bin/Debug/net8.0/py.runtimeconfig.json
+/Users/alex/Documents/source/py/bin/Debug/net8.0/py.dll
+/Users/alex/Documents/source/py/bin/Debug/net8.0/py.pdb
+/Users/alex/Documents/source/py/obj/Debug/net8.0/py.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/source/py/obj/Debug/net8.0/py.AssemblyInfoInputs.cache
+/Users/alex/Documents/source/py/obj/Debug/net8.0/py.AssemblyInfo.cs
+/Users/alex/Documents/source/py/obj/Debug/net8.0/py.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/source/py/obj/Debug/net8.0/py.dll
+/Users/alex/Documents/source/py/obj/Debug/net8.0/refint/py.dll
+/Users/alex/Documents/source/py/obj/Debug/net8.0/py.pdb
+/Users/alex/Documents/source/py/obj/Debug/net8.0/py.genruntimeconfig.cache
+/Users/alex/Documents/source/py/obj/Debug/net8.0/ref/py.dll
